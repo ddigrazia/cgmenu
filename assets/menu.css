@@ -2,16 +2,13 @@
 
 .body {
   width: 100%;
-  margin: 0 auto;
-  display: block;
+  margin: 0 auto !important;
   color: #000;
 }
 
 .menu-body {
   width: 100%;
-  margin: 0 auto;
-  display: block;
-  color: #000;
+  margin: 0 auto !important;
 }
 
 .menu-banner {
@@ -19,9 +16,7 @@
 }
 
 .title-enterprise {
-  margin: 0 auto;
-  display: block;
-  padding: 42px 0;
+  padding: 56px 0;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   font-weight: 800 !important;
@@ -44,14 +39,14 @@
   padding: 7px 0 ;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 21px;
+  font-size: 25px;
   color: #fff;
   text-align: left;
 }
 
 .menu-item {
   margin: 25px 15px;
-  font-size: 17px;
+  font-size: 20px;
 }
 
 .menu-item-name{
@@ -62,7 +57,7 @@
 
 .menu-item-description {
   font-style: italic;
-  font-size: .9em;
+  font-size: 14px;
   line-height: 1.5em;
 }
 
@@ -73,5 +68,3 @@
   font-family: arial;
   margin-top: -22px;
 }
-
-/** Source: http://wordpressaholic.com/restaurant-menu-html-and-css-tutorial/ **/
