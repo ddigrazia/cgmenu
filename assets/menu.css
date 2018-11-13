@@ -1,7 +1,7 @@
  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
 .menu-body {
-  max-width: 680px;
+  width: 100%;
   margin: 0 auto;
   display: block;
   color: #000;
