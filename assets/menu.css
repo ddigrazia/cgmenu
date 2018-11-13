@@ -1,5 +1,12 @@
  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
+.body {
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  color: #000;
+}
+
 .menu-body {
   width: 100%;
   margin: 0 auto;
@@ -61,6 +68,7 @@
 
 .menu-item-price{
   float: right;
+  font-size: 17px;
   font-weight: bold;
   font-family: arial;
   margin-top: -22px;
