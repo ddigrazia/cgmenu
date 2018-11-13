@@ -1,0 +1,69 @@
+ @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+.menu-body {
+  max-width: 680px;
+  margin: 0 auto;
+  display: block;
+  color: #000;
+}
+
+.menu-banner {
+  background: #006622;
+}
+
+.title-enterprise {
+  margin: 0 auto;
+  display: block;
+  padding: 42px 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800 !important;
+  font-size: 30px;
+  color: #fff;
+}
+
+.menu-section {
+  margin-bottom: 30px;
+}
+
+.menu-section-background {
+  margin: 0 auto;
+  display: block;
+  background-color: #cc0000;
+}
+
+.menu-section-title {
+  margin: 0 10px;
+  padding: 7px 0 ;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 21px;
+  color: #fff;
+  text-align: left;
+}
+
+.menu-item {
+  margin: 25px 15px;
+  font-size: 17px;
+}
+
+.menu-item-name{
+  font-family: helvetica;
+  font-weight: bold;
+  border-bottom: 2px dotted rgb(213, 213, 213);
+}
+
+.menu-item-description {
+  font-style: italic;
+  font-size: .9em;
+  line-height: 1.5em;
+}
+
+.menu-item-price{
+  float: right;
+  font-weight: bold;
+  font-family: arial;
+  margin-top: -22px;
+}
+
+/** Source: http://wordpressaholic.com/restaurant-menu-html-and-css-tutorial/ **/
