@@ -1,0 +1,38 @@
+.titulo{
+	background-color:#F4692D;
+	font-size: 2em;
+	padding: 10px;
+	color:#fff;
+	font-weight: bold;
+}
+
+.titulo-cactus{
+	background-color: #009432;
+	font-size: 2em;
+	padding: 10px;
+	color:#fff;
+	font-weight: bold;
+}
+
+.categoria {
+	background-color: #EA2027;
+	color:#fff;
+	font-weight: bold;
+	padding: 4px;
+}
+
+.produto {
+	padding: 10px 0;
+	border-bottom: 1px solid #eee;
+	font-size: 0.9em;
+}
+
+.preco-produto {
+	font-size: 0.9em;
+}
+
+.descricao-produto {
+	font-size: 0.9em;
+	font-style: italic;
+	padding: 2px 2px 2px 30px;
+}
