@@ -46,6 +46,22 @@
 	padding: 4px;
 }
 
+/* SHAZAN ESFIHARIA */
+.titulo-shazan{
+	background-color: #bf3524;
+	font-size: 2em;
+	padding: 10px;
+	color:#fff;
+	font-weight: bold;
+}
+
+.categoria-shazan {
+	background-color: #f9b730;
+	color:#fff;
+	font-weight: bold;
+	padding: 4px;
+}
+
 /* THE CASTRO'S HAMBURGUERIA ARTESANAL */
 .titulo-the-castros{
 	background-color: #1e1f21;
