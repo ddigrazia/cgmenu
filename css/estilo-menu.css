@@ -30,6 +30,22 @@
 	padding: 3px 0;
 }
 
+/* ARTE SUSHI */
+.titulo-arte-sushi{
+	background-color: #ff3838;
+	font-size: 2em;
+	padding: 10px;
+	color:#fff;
+	font-weight: bold;
+}
+
+.categoria-arte-sushi {
+	background-color: #000000;
+	color:#fff;
+	font-weight: bold;
+	padding: 4px;
+}
+
 /* CACTU'S BAR E RESTAURANTE */
 .titulo-cactus{
 	background-color: #009432;
